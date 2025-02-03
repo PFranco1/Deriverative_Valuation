@@ -3,13 +3,13 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my-methods"
+name = "deriverative_valuation_5917487"
 version = "0.1.0"
 description = "A collection of Python methods"
 authors = [
-  { name="Your Name", email="[email protected]" }
+  { name="plato", email="spamemail2093411@gmail.com" }
 ]
-requires-python = ">=3.6"
+requires-python = ">=3.11.2"
 classifiers = [
   "Programming Language :: Python :: 3",
 ]
